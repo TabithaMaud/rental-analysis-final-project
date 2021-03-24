@@ -8,7 +8,7 @@ An analysis on 1 bedroom and 4 bedroom city rentals from 2010-2019
 
 | RegionName  | State | Metro                          | CountyName         | SizeRank | 2010-02 | ... | 2019-12 |
 | :---------- | :---- | :----------------------------- | :----------------- | :------- | :------ | :-- | :------ |
-| New York    | NY    | New York-Newark-Jersey City    | Queens County      | 1        | 3750.0  | ... | 3750    |
+| New York    | NY    | New York-Newark-Jersey City    | Queens County      | 1        | 3750.0  | ... | 3597.5  |
 | Los Angeles | CA    | Los Angeles-Long Beach-Anaheim | Los Angeles County | 2        | 3700.0  | ... | 32432   |
 
 Keep writing more stuff here!
